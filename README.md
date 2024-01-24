@@ -4,7 +4,8 @@
  + design
  + and building applications.
  <br>
- connect with me on twitter [@sohamsal](https://twitter.com/sohamsal) or send me an email at sohamsal@umich.edu
+ connect with me on twitter [@sohamsal](https://twitter.com/sohamsal/) 
+ or send me an email at sohamsal@umich.edu
 
 ## here's what I'm working on right now:
 
