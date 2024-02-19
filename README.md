@@ -1,5 +1,5 @@
 # hello! 👋
-i am soham, a first-year engineering student at umich, interested in 
+I am Soham, a first-year engineering student at UMich ![image](https://github.com/sohamsal/sohamsal/assets/34986453/f590a9a2-d266-4a80-bf4d-9a69142d228d), interested in 
 + llms
 + design
 + and building applications.
